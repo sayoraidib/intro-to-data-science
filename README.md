@@ -7,3 +7,7 @@ Whitman College
 Work Experience:
 ####
 ####
+
+
+Final project ideas: 
+Use data from the World Bank to plot a map where each area of the world will show its development factors 
